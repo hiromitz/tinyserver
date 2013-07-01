@@ -8,10 +8,10 @@
   },
   "main": "./lib/main",
   "bin": {
-    "tinyserver": "./bin/server"
+    "tinyserver": "./bin/tinyserver"
   },
   "dependencies": {
-    "mime": ">=1.2.7"
+    "mime": "~1.2.9"
   },
   "devDependencies": {},
   "optionalDependencies": {},
